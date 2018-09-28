@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      c++贪吃蛇源代码
+subtitle:    
+date:       2018-9-28
+author:     晓斌
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    -c++
+
+
+
+
 /**
 *文件名：贪吃蛇
 *描 述：经典
