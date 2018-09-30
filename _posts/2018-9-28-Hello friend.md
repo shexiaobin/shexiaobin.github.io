@@ -1,12 +1,12 @@
 ---
 layout:     post   				        # 使用的布局（不需要改）
 title:      My First Post 				# 标题 
-subtitle:   Hello friend          #副标题
+subtitle:   Hello friend                #副标题
 date:       2018-09-28 				    # 时间
-author:     shexiaobin 						        # 作者
-header-img:  architecture-building-city-1121782.jpg	#这篇文章标题背景图片
-catalog: true 						        # 是否归档
-tags:								              #标签
+author:     shexiaobin 				    # 作者
+header-img:  img/post-bg-2015.jpg   	#这篇文章标题背景图片
+catalog: true 						    # 是否归档
+tags:								    #标签
     - 生活
 ---
 
