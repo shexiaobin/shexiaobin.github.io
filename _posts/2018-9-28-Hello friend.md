@@ -13,9 +13,3 @@ tags:								    #标签
 ## Hey
 >这是我的第一篇博客。
 
->你好试一下代码
-`System.out.println();`
-
-
-
->`System.out.println();`
