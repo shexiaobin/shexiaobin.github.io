@@ -1,7 +1,7 @@
 # Site settings
 title: Hello shexiaobin
 SEOTitle: 佘晓斌的博客
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-ios9-web.jpg
 email: shexiaobin24@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, 佘晓斌的博客, shexiaobin, java, hadoop，hbase"
@@ -52,7 +52,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
+gems: [jeky11-paginate]
 
 
 # 评论系统
