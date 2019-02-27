@@ -1,7 +1,7 @@
 # Site settings
 title: Hello shexiaobin
 SEOTitle: 佘晓斌的博客
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/adult-business-businessman-1061588.jpg
 email: shexiaobin24@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, 佘晓斌的博客, shexiaobin, java, hadoop，hbase"
@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-m             # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/xiaob646364.jpg           # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     
 github_username:    shexiaobin
 facebook_username:  
-jianshu_username:   jianshu_id
+jianshu_username:   575fdfe5ac00
 #twitter_username:   qiubaiying
 
 
@@ -96,12 +96,12 @@ service-worker: true
 
 
 
-# Friends
+# Friends {
+        #title: "WY",
+        #href: "http://zhengwuyang.com"
+    #}
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·BY",
         href: "https://www.jianshu.com/u/575fdfe5ac00"
     },{
