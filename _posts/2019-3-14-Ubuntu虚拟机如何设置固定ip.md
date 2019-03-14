@@ -21,7 +21,7 @@ tags:								    #标签
 
 **当前环境：**
 
-**虚拟机版本:VMware WorkStation 12 **
+**虚拟机版本:VMware WorkStation 12**
 
 **系统版本:Ubuntu 16.04**
 
