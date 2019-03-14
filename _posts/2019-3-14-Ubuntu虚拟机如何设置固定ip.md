@@ -1,20 +1,27 @@
 layout:     post   				        # 使用的布局（不需要改）
-title:      Ubuntu虚拟机如何设置固定ip		   # 标题 
-subtitle:   Hello friend                #副标题
-date:       2019-03-14 				    # 时间
-author:     Mayer 				    # 作者
-header-img:  img/post-bg-YesOrNo.jpg     	#这篇文章标题背景图片
+title:      Ubuntu虚拟机如何设置固定ip	   # 标题 
+subtitle:   Hello friend                			#副标题
+date:       2019-03-14				    # 时间
+author:     Mayer					    # 作者
+header-img:  img/post-bg-YesOrNo.jpg       	#这篇文章标题背景图片
 catalog: true 						    # 是否归档
 tags:								    #标签
 
     - Linux
 
+
+
 # 前言
+
 **最近自己搞了一个hadoop的完全分布，因为虚拟机采用的是NAT模式，饱受了隔一段时间ip就自动改变的苦恼。而且我在网络方面实在是小白一个，什么网关，子网ip之类的知识完全就是一白空白，也苦恼于网络上的教程太杂，踩了很多坑，所以决定自己写一个。**
 
-**当前环境：
-虚拟机版本:VMware WorkStation 12 
-系统版本:Ubuntu 16.04**
+**当前环境：**
+
+**虚拟机版本:VMware WorkStation 12 **
+
+**系统版本:Ubuntu 16.04**
+
+
 
 # 一、查看windows的ip和网关
 
@@ -31,7 +38,8 @@ tags:								    #标签
 
 ## （2）查看NAT设置
    -  记住改网关ip
-  ![image.png](https://upload-images.jianshu.io/upload_images/12269087-189fb4c8c9aa5e36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+    ![image.png](https://upload-images.jianshu.io/upload_images/12269087-189fb4c8c9aa5e36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 # 三、修改interfaces文件 
