@@ -1,13 +1,16 @@
 layout:     post   				        # 使用的布局（不需要改）
 title:      Ubuntu虚拟机如何设置固定ip	   # 标题 
-subtitle:   Hello friend                			#副标题
+subtitle:   Hello friend                #副标题
 date:       2019-03-14				    # 时间
 author:     Mayer					    # 作者
 header-img:  img/post-bg-YesOrNo.jpg       	#这篇文章标题背景图片
 catalog: true 						    # 是否归档
 tags:								    #标签
 
-    - Linux
+- Linux
+
+
+
 
 
 
