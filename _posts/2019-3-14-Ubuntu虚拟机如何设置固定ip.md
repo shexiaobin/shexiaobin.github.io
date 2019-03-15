@@ -43,7 +43,7 @@ tags:								    #标签
 ## （2）查看NAT设置
    -  记住改网关ip
 
-![image.png](C:\Users\Administrator\Documents\GitHub\shexiaobin.github.io\img\12269087-189fb4c8c9aa5e36.png)
+![image.png](https://upload-images.jianshu.io/upload_images/12269087-189fb4c8c9aa5e36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 # 三、修改interfaces文件 
