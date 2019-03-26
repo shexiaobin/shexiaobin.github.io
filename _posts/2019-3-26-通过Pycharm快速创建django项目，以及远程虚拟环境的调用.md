@@ -36,10 +36,18 @@ tags:								    #标签
 ![image.png](https://upload-images.jianshu.io/upload_images/12269087-d7c6ac6bde1c54f0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 运行Django项目
+
   * 在PyCharm中，修改`setting.py`
 将settings.py文件中的
+
+
 ```ALLOWED_HOSTS = [ ],改成ALLOWED_HOSTS = ['*']```
+
+
 或者
+
+
+
 ```
 ALLOWED_HOSTS = [
     '.example.com',  # Allow domain and subdomains
@@ -47,6 +55,7 @@ ALLOWED_HOSTS = [
     '139.198.xxx.xxx', # 测试环境我们一般允许自己的主机IP访问即可
 ]
 ```
+
 ## 开启服务有两种方式：
 * 在Ubuntu16.04下开启服务，运行下面的命令（~/djtest11是项目目录）：
 ```
@@ -62,12 +71,9 @@ $ python manage.py runserver 0.0.0.0:8000
 ![image.png](https://upload-images.jianshu.io/upload_images/12269087-10ff1b498b2a2d41.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-
-
-     点击【+】
+  点击【+】
      
-     
-     
+         
 ![image.png](https://upload-images.jianshu.io/upload_images/12269087-3bea7a5f754cb1f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
