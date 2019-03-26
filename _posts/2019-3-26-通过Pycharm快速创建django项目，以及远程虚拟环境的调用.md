@@ -65,6 +65,9 @@ $ python manage.py runserver 0.0.0.0:8000
 
 
      点击【+】
+     
+     
+     
 ![image.png](https://upload-images.jianshu.io/upload_images/12269087-3bea7a5f754cb1f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -81,6 +84,8 @@ $ python manage.py runserver 0.0.0.0:8000
 
       点击【Fix】，在弹出窗口，选中【Django】,
       在右侧选择本地项目目录，选择Settings文件路径。
+      
+      
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12269087-cb4762fe8d25675d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
