@@ -195,3 +195,6 @@ python manage.py runserver 0.0.0.0:8000    #改动文件后，都需要runserver
 
 
 ![image.png](https://upload-images.jianshu.io/upload_images/12269087-0bdde89ce4f30031.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+# [PyCharm如何创建新工程以及连接Linux环境](https://www.jianshu.com/p/a1fc4b71eb9b)
