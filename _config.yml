@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: https://ws1.sinaimg.cn/mw690/aeb740d8gy1g2arbh9pc2j24mo3347ws.jpg           # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://upload-images.jianshu.io/upload_images/12269087-8f7d35d73509c57e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240           # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
