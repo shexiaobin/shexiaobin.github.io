@@ -80,7 +80,7 @@ update user set host = '%' where user ='root';
 ```mysql
 sudo /etc/mysql/mysql.conf.d/mysqld.cnf
 # 将bind_address=127.0.0.1注释掉.
-# 并添加一行 
+# 并添加一行  
 bind_address=0.0.0.0
 # 然后重启服务
 /etc/init.d/mysql restart
