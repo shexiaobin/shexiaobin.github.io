@@ -1,3 +1,18 @@
+---
+layout:     post   				        # 使用的布局（不需要改）
+title:      Ubuntu MySQL安装、卸载以及远程连接 		   # 标题 
+subtitle:   mysql卸载安装             #副标题
+date:       2020-03-08 				    # 时间
+author:     shexiaobin 				    # 作者
+header-img:  img/post-bg-digital-native.jpg     	#这篇文章标题背景图片
+catalog: true 						    # 是否归档
+tags:								    #标签
+    - SQL
+---
+
+
+
+
 # Ubuntu MySQL安装、卸载以及远程连接
 
 # 1. 安装
