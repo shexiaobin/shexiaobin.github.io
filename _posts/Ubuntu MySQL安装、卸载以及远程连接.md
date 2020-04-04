@@ -15,7 +15,7 @@ tags:								    #标签
 
 # Ubuntu MySQL安装、卸载以及远程连接
 
-# 1. 安装
+# 1. 安装  
 
 - ### 查看apt list中MySQL版本信息
 
